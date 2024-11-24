@@ -29,7 +29,7 @@ Simple Quiz Screenshot![Screenshot1](https://github.com/user-attachments/assets/
 
 
 ## Live Demo
-[Click here to try the app](https://quizyogesh17082003.streamlit.app/)
+[Click here to try the app](https://cbdajznhv2pf69zhttothm.streamlit.app/)
 
 ## File Details
 
